@@ -16,8 +16,10 @@ Math Color is a plugin for Obsidian that enhances your mathematical notation by 
 Simply select a math expression and use the specified command to apply your chosen color!
 
 ## Author
-- **Alexander Bergmann**  
-[GitHub Profile](https://github.com/Alexander-Bergmann)
+- **Alexander Bergmann**
+If my projects have saved you a headache (or just sparked a "huh, that's cool"), buying me a coffee keeps the caffeine-fueled coding sessions going. 
+Thanks for the support - it means the world! ☕
+[Buy me a coffe!](https://ko-fi.com/alexanderbergmann)
 
 ## License
 MIT License.
