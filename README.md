@@ -17,6 +17,7 @@ Simply select a math expression and use the specified command to apply your chos
 
 ## Author
 - **Alexander Bergmann**
+
 If my projects have saved you a headache (or just sparked a "huh, that's cool"), buying me a coffee keeps the caffeine-fueled coding sessions going. 
 Thanks for the support - it means the world! ☕
 [Buy me a coffe!](https://ko-fi.com/alexanderbergmann)
