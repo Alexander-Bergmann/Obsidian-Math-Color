@@ -1,0 +1,11 @@
+{
+  "id": "math-color",
+  "name": "Math Color",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Color selected math with \\textcolor{red}{x}",
+  "author": "Alexander Bergmann",
+  "authorUrl": "https://github.com/Alexander-Bergmann",
+  "main": "main.js",
+  "isDesktopOnly": false
+}
