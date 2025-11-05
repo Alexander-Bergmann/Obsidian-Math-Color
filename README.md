@@ -1,13 +1,13 @@
 # Math Color
 
 ## Overview
-Math Color is a plugin for Obsidian that enhances your mathematical notation by allowing you to easily color selected math expressions.
+Math Color is a plugin for Obsidian that enhances your mathematical notation by allowing you to easily and quickly color selected math expressions.
 
 ## Features
 - Simply right click to color any math expression with your choice of color.
 - Easy integration into your existing Obsidian setup.
 - Made to fit well with the Fast Text Color community plugin.
-- Supports both editing and reading mode.
+- Supports both editing and reading view inlines.
 - Supports keybinding.
 
 ## Manual Installation
