@@ -7,5 +7,6 @@
   "author": "Alexander Bergmann",
   "authorUrl": "https://github.com/Alexander-Bergmann",
   "main": "main.js",
-  "isDesktopOnly": false
+  "isDesktopOnly": false,
+  "fundingUrl": "https://ko-fi.com/alexanderbergmann"
 }
