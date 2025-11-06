@@ -3,7 +3,7 @@
   "name": "Math Color",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Color selected math with \\textcolor{red}{x}",
+  "description": "Add colors to LaTeX math expressions in Obsidian with an intuitive right-click menu.",
   "author": "Alexander Bergmann",
   "authorUrl": "https://github.com/Alexander-Bergmann",
   "main": "main.js",
