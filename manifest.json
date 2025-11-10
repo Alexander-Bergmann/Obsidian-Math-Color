@@ -3,7 +3,7 @@
   "name": "Math Color",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Add colors to LaTeX math expressions with an intuitive right-click menu.",
+  "description": "Add colors to math expressions with an intuitive right-click menu.",
   "author": "Alexander Bergmann",
   "authorUrl": "https://github.com/Alexander-Bergmann",
   "isDesktopOnly": false,
